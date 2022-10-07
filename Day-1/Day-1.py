@@ -1,0 +1,6 @@
+intro = print("welcome")
+town = input("What is your home town? \n")
+print(town)
+pet = input("What ius the name of your pet? \n")
+print(pet)
+print("your band name could be " + town + " "+ pet)
